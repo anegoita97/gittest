@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dsadasdsadas
+=======
+Sunt smecher
+>>>>>>> b131bdb39140ad1bb23505c156370b1941e8ccfd
